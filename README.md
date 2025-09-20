@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Fauzan Farhan  
 
-<!--
-**nextfauzan/nextfauzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 I’m currently learning GitHub & Web Development
+- 💻 I love coding and exploring new technologies
+- 🎯 Goal: Become a full-stack developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzanfarhan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanfarhan&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=fauzanfarhan&theme=darkhub)
+
+---
+
+### 🐍 Snake Game
+![Snake animation](https://github.com/fauzanfarhan/fauzanfarhan/blob/output/snake.svg)
