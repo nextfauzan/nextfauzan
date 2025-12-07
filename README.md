@@ -40,7 +40,8 @@
 
 <hr style="border: 2px solid #D32F2F;" />
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=nextfauzan&show_icons=true&theme=default&hide_border=true&title_color=D32F2F&icon_color=D32F2F&text_color=333" />
+<img align="right" width="400" src="![saya](https://github.com/user-attachments/assets/f999272a-0508-444f-a9c8-3641246bb0cb)
+" />
 
 ### 🔴 About Me
 
