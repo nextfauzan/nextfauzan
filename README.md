@@ -42,7 +42,7 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=nextfauzan&show_icons=true&theme=default&hide_border=true&title_color=D32F2F&icon_color=D32F2F&text_color=333" />
 
-### 🔴 Engineering & Innovation
+### 🔴 About Me
 
 Programer PHP yang fokus pada optimasi
 sistem melalui keahlian Web, Menyukai
