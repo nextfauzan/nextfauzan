@@ -44,12 +44,12 @@
 
 ### 🔴 Engineering & Innovation
 
-Saya adalah **Software Engineer** profesional yang berfokus menjembatani pengembangan web tradisional dengan solusi kecerdasan buatan yang canggih.
+Programer PHP yang fokus pada optimasi
+sistem melalui keahlian Web, Menyukai
+dunia Data dan Automasi. Level
+Menengah mengintegrasikan AI untuk
+inovasi sistem yang optimal dan solutif.
 
-- 🚀 **Backend Mastery:** Spesialisasi membangun arsitektur **PHP/Laravel** berkinerja tinggi.
-- 🤖 **AI Integration:** Menggabungkan **Machine Learning** & API OpenAI pada sistem web.
-- 📱 **Mobile Dev:** Mengembangkan aplikasi *Cross-platform* robust dengan **Flutter**.
-- 🎯 **Current Focus:** *Fine-tuning LLMs & Generative AI Implementation.*
 
 <br/>
 
