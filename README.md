@@ -72,6 +72,4 @@ Saya adalah **Software Engineer** profesional yang berfokus menjembatani pengemb
 
 <br clear="both"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextfauzan&theme=default&hide_border=true&stroke=D32F2F&ring=D32F2F&fire=D32F2F&currStreakLabel=D32F2F" alt="Streak Stats" />
-</div>
+
