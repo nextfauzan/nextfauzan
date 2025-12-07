@@ -51,5 +51,5 @@ Saya adalah **Software Engineer** profesional yang berfokus menjembatani pengemb
 <br clear="both"/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernamekamu&theme=default&hide_border=true&stroke=D32F2F&ring=D32F2F&fire=D32F2F&currStreakLabel=D32F2F" alt="Streak Stats" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=usernamekamu&theme=default&hide_border=true&stroke=D32F2F&ring=D32F2F&fire=D32F2F&currStreakLabel=D32F2F](https://tse3.mm.bing.net/th/id/OIP.mNMqJMF4XRUPWv1uHHF9SwHaEK?pid=Api&P=0&h=220)" alt="Streak Stats" />
 </div>
