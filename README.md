@@ -62,6 +62,8 @@ inovasi sistem yang optimal dan solutif.
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /
   <img src="https://img.shields.io/badge/Config-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spreadheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
+
 
   
 </p>
