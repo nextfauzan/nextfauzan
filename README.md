@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/usernamekamu">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/usernamekamu">
     <img src="https://img.shields.io/badge/Instagram-Follow-D32F2F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -46,7 +46,7 @@
       <img src="https://img.shields.io/badge/OpenAI_API-D32F2F?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-D32F2F?style=flat-square&logo=mysql&logoColor=white" />
       <br/>
-            <img src="https://img.shields.io/badge/JavaScript-D32F2F?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-D32F2F?style=flat-square&logo=javascript&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-D32F2F?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/React-D32F2F?style=flat-square&logo=react&logoColor=white" />
       <br/>
@@ -55,14 +55,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<h3 align="center">📊 Performance Metrics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzanfarhan&show_icons=true&bg_color=0d1117&title_color=D32F2F&text_color=ffffff&icon_color=D32F2F&border_color=D32F2F&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanfarhan&layout=compact&bg_color=0d1117&title_color=D32F2F&text_color=ffffff&border_color=D32F2F&hide_border=true" height="150" alt="languages graph" />
-</div>
 
 <br/>
 
