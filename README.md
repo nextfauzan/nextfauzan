@@ -55,9 +55,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/fauzanfarhan/fauzanfarhan/blob/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
