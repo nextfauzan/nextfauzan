@@ -48,8 +48,7 @@
 Programer PHP yang fokus pada optimasi
 sistem melalui keahlian Web, Menyukai
 dunia Data dan Automasi. Level
-Menengah mengintegrasikan AI untuk
-inovasi sistem yang optimal dan solutif.
+Menengah dalam generatif dan mengintegrasikan AI untuk sistem.
 
 
 <br/>
